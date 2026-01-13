@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+!sample_data.csv
+!traffic_drop_data.csv
+.DS_Store

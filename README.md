@@ -4,18 +4,18 @@ Automated Root Cause & Revenue Leakage Monitoring for Advertising Systems
 
 🔴 Problem
 
-Advertisers frequently lose revenue due to **silent failures** in their advertising setup, such as:
+Advertisers frequently lose revenue due to silent failures in their advertising setup, such as:
 
 * Broken or missing conversion tracking tags
 * Campaigns paused unintentionally
 * Website or traffic changes breaking event tracking
 * Sudden conversion drops going unnoticed
 
-These issues often remain undetected for days, leading to **significant revenue leakage and delayed diagnosis**.
+These issues often remain undetected for days, leading to significant revenue leakage and delayed diagnosis.
 
 💡 Solution
 
-The **Google Ads Reliability System (GARS)** is a Python and SQL-based monitoring console designed to **proactively detect, diagnose, and quantify revenue-impacting issues** in advertising systems.
+The Google Ads Reliability System (GARS) is a Python and SQL-based monitoring console designed to proactively detect, diagnose, and quantify revenue-impacting issues in advertising systems.
 
 The system:
 
@@ -25,7 +25,7 @@ The system:
 * Quantifies business impact to help prioritize fixes
 * Suggests corrective actions before revenue loss escalates
 
-This mirrors real-world workflows used by **gTech Ads & Customer Solutions Engineers**.
+This mirrors real-world workflows used by gTech Ads & Customer Solutions Engineers**.
 
 🚀 Key Capabilities
 
